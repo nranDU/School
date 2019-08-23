@@ -1,2 +1,2 @@
 # School
-School code
+School projects
